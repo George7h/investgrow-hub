@@ -1,0 +1,34 @@
+* {
+  color: white;
+}
+
+.profilecont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #5587e3;
+  color: white;
+  padding: 10px 0 10px 0;
+}
+
+img {
+  width: 200px;
+}
+
+.tablecontain {
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  background-color: #385995;
+}
+
+table tr:nth-child(even) {
+  background-color: #365692;
+}
