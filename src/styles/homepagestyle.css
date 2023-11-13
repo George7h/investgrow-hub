@@ -1,0 +1,92 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.maincard {
+  background-color: #5587e3;
+  color: white;
+  background-image: url('../assets/graph.png');
+  background-size: cover;
+  height: 200px;
+}
+
+.filters {
+  background-color: #35548b;
+  display: flex;
+  padding: 5px;
+  gap: 5px;
+}
+
+h5 {
+  color: white;
+}
+
+.stock-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.stock-card {
+  width: 45.6%;
+  display: flex;
+  flex-direction: column;
+  background-color: #4167af;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  overflow: hidden;
+  position: relative;
+  padding: 5px;
+}
+
+.stock-card:nth-child(even) {
+  background-color: #385995;
+}
+
+.stock-card a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.stock-card h3 {
+  margin: 0;
+  position: absolute;
+  bottom: 20px;
+  right: 8px;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.stock-card p {
+  margin: 0;
+  position: absolute;
+  bottom: 2px;
+  right: 8px;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.stock-card span {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  color: white;
+}
+
+.stock-card img {
+  width: 100%;
+  height: auto;
+}
+
+select {
+  background-color: #5587e3;
+  border-radius: 10px;
+  border: none;
+}
+
+@media screen and (min-width: 750px) {
+  .stock-card {
+    width: 200px;
+  }
+}
