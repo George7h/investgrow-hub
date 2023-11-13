@@ -3,13 +3,16 @@ import { Link } from 'react-router-dom';
 import '../styles/App.css';
 import '../styles/Navigationstyle.css';
 
-export default function Navigation() {
+export default function Navigationhome() {
   return (
     <nav className="navbar">
+      <span className="material-symbols-outlined">
+        menu
+      </span>
       <Link to="/">
-        <span className="material-symbols-outlined">
-          chevron_left
-        </span>
+        <h6>
+          INVESTGROW-HUB
+        </h6>
       </Link>
       <div className="controls">
         <span className="material-symbols-outlined">
