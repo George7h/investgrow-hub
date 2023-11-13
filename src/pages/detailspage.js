@@ -33,7 +33,7 @@ function DetailsPage() {
               {profileData.companyName}
             </p>
             <p>
-              {profileData.website}
+              <a href={profileData.website}>{profileData.website}</a>
             </p>
             <p>
               {profileData.currency}
