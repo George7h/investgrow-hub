@@ -50,12 +50,12 @@ function DetailsPage() {
       <div className="tablecontain">
         <table>
           <thead>
-            <tr>
+            <tr id="top">
               <th>Date</th>
               <th>Closing Price</th>
               <th>%Change</th>
               <th>Volume</th>
-              <th>&nbsp;</th>
+              <th style={{ visibility: 'hidden' }}>Empty</th>
             </tr>
           </thead>
           <tbody>
