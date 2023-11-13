@@ -11,6 +11,7 @@ export default function Navigation() {
           chevron_left
         </span>
       </Link>
+      <div>2023</div>
       <div className="controls">
         <span className="material-symbols-outlined">
           mic

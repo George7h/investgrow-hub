@@ -29,7 +29,7 @@ h5 {
 }
 
 .stock-card {
-  width: 45.6%;
+  width: 50%;
   display: flex;
   flex-direction: column;
   background-color: #4167af;
@@ -37,10 +37,13 @@ h5 {
   text-align: center;
   overflow: hidden;
   position: relative;
-  padding: 5px;
 }
 
-.stock-card:nth-child(even) {
+.stock-card.stock-card:nth-child(4n-2) {
+  background-color: #385995;
+}
+
+.stock-card.stock-card:nth-child(4n-1) {
   background-color: #385995;
 }
 
@@ -88,5 +91,13 @@ select {
 @media screen and (min-width: 750px) {
   .stock-card {
     width: 200px;
+  }
+
+  .stock-card.stock-card:nth-child(even) {
+    background-color: #385995;
+  }
+
+  .stock-card.stock-card:nth-child(odd) {
+    background-color: #4167af;
   }
 }
