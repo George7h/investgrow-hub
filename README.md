@@ -1,4 +1,6 @@
- Space Travelers' Hub
+
+<p align = "center"><img src="src\assets\Investgrow-HUB.png"></p>
+
 <a name="readme-top"></a>
 <!-- TABLE OF CONTENTS -->
 
@@ -33,6 +35,7 @@ Investgrow-HUB is a React and Redux project that leverages real live data from F
  📗 [Live Demo] 
  
  - Here is a <a href="https://investgrow-hub.onrender.com">link</a> to my live website.
+ - Here is a <a href="https://www.loom.com/share/cc7d7db3af6d4c08acf33ef6c84f95e3?sid=c998c386-d268-4fd9-94d4-e95a1b27cdba">link</a> to my live presentation video.
 
 ## 🛠 Built With <a name="built-with"></a>
 Using React documentation
@@ -107,7 +110,7 @@ To run the project, execute the following command:
 
 ### Deployment
 
-Project can be deployed by using the gh-pages and other web platforms.
+Project has been deployed by using the Render however it can be deployed by gh-pages and other web platforms.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
