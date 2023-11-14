@@ -158,7 +158,7 @@ If you like this project, give a ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank  my coding partiner HossainAraf/George Hamman, code reviewers & Microverse management
+I would like to thank my code reviewers & Microverse management
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
