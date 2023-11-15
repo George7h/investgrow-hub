@@ -35,7 +35,7 @@ Investgrow-HUB is a React and Redux project that leverages real live data from F
  📗 [Live Demo] 
  
  - Here is a <a href="https://investgrow-hub.onrender.com">link</a> to my live website.
- - Here is a <a href="https://www.loom.com/share/cc7d7db3af6d4c08acf33ef6c84f95e3?sid=c998c386-d268-4fd9-94d4-e95a1b27cdba">link</a> to my live presentation video.
+ - Here is a <a href="https://www.loom.com/share/452f41f0d193458686ba8ed6f9da20d5?sid=652f21b8-e035-4f45-9efe-8c416676902f">link</a> to my live presentation video.
 
 ## 🛠 Built With <a name="built-with"></a>
 Using React documentation
@@ -158,7 +158,7 @@ If you like this project, give a ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my code reviewers & Microverse management
+I would like to thank my code reviewers & Microverse management and also Nelson Sakwa for the design template on Behance that inspired this projects UI design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
